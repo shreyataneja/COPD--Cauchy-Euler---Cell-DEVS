@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_XGuz4AV7Eeqnnv7be9Gg4w" defined="true" sourceFileRelativePath="COPD_Cauchy-Euler.ma">
+    <coupledModels xmi:type="CoupledModelInstance" xmi:id="_XGuz4QV7Eeqnnv7be9Gg4w" instanceName="COPD">
+      <modelType xmi:type="CoupledModelType" xmi:id="_XGuz4gV7Eeqnnv7be9Gg4w" modelName="COPD"/>
+    </coupledModels>
+  </CoupledModelType>
+  <notation:Diagram xmi:id="_XGva8AV7Eeqnnv7be9Gg4w" type="DEVS" element="_XGuz4AV7Eeqnnv7be9Gg4w" name="COPD_Cauchy-Euler.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_XGva8QV7Eeqnnv7be9Gg4w"/>
+  </notation:Diagram>
+</xmi:XMI>
